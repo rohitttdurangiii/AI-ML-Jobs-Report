@@ -27,8 +27,6 @@ Dim_Companies ─┼── Fact_Jobs ── Fact_Job_Skills ── Dim_Skills
 
 Key DAX measures: TotalJobs, AvgSalary, MedianSalary, RemoteJob%, AvgSalaryByExperience, AvgSalaryByCountry, JobsPerCompany, CompanyAvgRating, SkillUsageCount, AvgSkillPerJob
 
-Screenshots
-
 Overview Location Insights Company & Role Insights Skill & Hiring Insights
 
 🛠️ Skills demonstrated
